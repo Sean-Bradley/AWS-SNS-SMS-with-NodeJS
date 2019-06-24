@@ -17,7 +17,7 @@ Rename the `.env.example` file to `.env` and enter your correct AWS access key, 
 
 Open browser and visit something like,
 
-http://localhost:3000/?message=**_Your Message_**&number=**_Your Number_**&subject=**_Your Subject_**
+`http://localhost:3000/?message=[The Message]&number=[The Number]&subject=[The Subject]`
 
 The mobile number should be E.164 format but without the + character.
 eg, 
