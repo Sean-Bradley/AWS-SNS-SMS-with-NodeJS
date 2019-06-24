@@ -9,6 +9,10 @@ Download this repository
 
 `$ npm install`
 
+Create a specific AWS IAM user and add to group 'AmazonSNSFullAccess'
+
+Rename the `.env.example` file to `.env` and enter your correct AWS access key, secret and region.
+
 `$ npm start`
 
 Open browser and visit something like,
