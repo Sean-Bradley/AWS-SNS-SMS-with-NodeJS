@@ -1,0 +1,17 @@
+{
+  "name": "aws-sns-sms-with-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sean Bradley",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.480.0",
+    "dotenv": "^8.0.0",
+    "express": "^4.17.1"
+  }
+}
