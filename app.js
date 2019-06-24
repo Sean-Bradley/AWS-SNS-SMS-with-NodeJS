@@ -1,6 +1,3 @@
-// example, 
-// http://localhost:3000/?message=The message&number=447484760450&subject=SEANWASERE
-
 const express = require('express');
 const app = express();
 require('dotenv').config();
