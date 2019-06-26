@@ -37,4 +37,8 @@ Then Visit
 
 `http://localhost:3000/?message=my message&number=447700900123&subject=My Subject`
 
+## Video Tutorial how to install and setup the SMS API
+
+[![Create an SMS API in 5 minutes with AWS SNS and NodeJS](https://img.youtube.com/vi/MvUdqXI-s7g/0.jpg)](https://youtu.be/MvUdqXI-s7g)
+
 
