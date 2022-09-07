@@ -10,7 +10,7 @@
   "author": "Sean Bradley",
   "license": "MIT",
   "dependencies": {
-    "aws-sdk": "^2.480.0",
+    "aws-sdk": "^2.814.0",
     "dotenv": "^8.0.0",
     "express": "^4.17.1"
   }
